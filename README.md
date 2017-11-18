@@ -2,7 +2,7 @@
 Convert a midi csv file, made with midicsv2ftmexport, to Famitracker's import/export format
 
 # Disclaimer
-The midi protocol and Famitrackers persistent representation (files) of famicom executable music format are two very different things. That said, they do share something, because they are, at theyr very core, the representation of sucession of events in time. What are those events, what they represent, may differ greatly in midi and Famitracker, but in essence they are the succession of events in time, like any temporal media.
+The midi protocol and Famitrackers persistent representation (files) of famicom executable music format are two very different things. That said, they do share something, because they are, at their very core, the representation of sucession of events in time. What are those events, what they represent, may differ greatly in midi and Famitracker, but in essence they are the succession of events in time, like any temporal media.
 
 The purpose of midicsv2ftmexport is to make easier for musicians already accustomed and skilled in writing sheet music in software like Musescore, Sibelius, Finale etc to 'port' their 'tunes' to Famitracker. It is not to 'convert' the midi to Famitracker the best way possible, but just to convert 'tunes' that will be worked on solely on Famitracker later.
 
